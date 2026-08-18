@@ -1,6 +1,6 @@
 # HTML & CSS Projects
 
-A collection of lightweight frontend mini-projects built with pure HTML5 and CSS3.
+A collection of lightweight frontend mini-projects built with HTML and CSS.
 
 ## 🌐 Live Projects
 
