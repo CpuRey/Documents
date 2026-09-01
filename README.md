@@ -11,7 +11,7 @@ A collection of lightweight frontend mini-projects built with HTML and CSS.
    - A shopping list showing what items the user still needs to buy.
 
  * **Business Card:** [View Live Site](https://cpurey.github.io/Documents/business-card)
-  - Business card that shows the name and the link of the projects of the user.
+   - Business card that shows the name and the link of the projects of the user.
 
 
 
