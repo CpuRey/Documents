@@ -1,0 +1,60 @@
+body {
+  background-image: url(https://i.postimg.cc/ncCDwqJ9/Messenger-creation-2A920820-DF80-4DD1-9353-8D322B5C13BE.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  font-size: 34px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, serif;
+}
+
+ul {
+  list-style-type: upper-roman;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: rgb(221, 14, 14);
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: rgb(193, 123, 17);
+}
+
+a:focus {
+  outline: 2px solid;
+}
+
+a:active {
+  color: rgb(6, 6, 128);
+}
+
+
+.shop-list {
+  background-color: rgb(255, 209, 26);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  margin-bottom: auto;
+  padding: 40px;
+  max-width: 250px;
+}
+
+.sub-item {
+  list-style-type: "- ";
+}
+
+.todo-list {
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
