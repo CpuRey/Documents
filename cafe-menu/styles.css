@@ -1,5 +1,8 @@
 body {
   background-image: url(https://raw.githubusercontent.com/CpuRey/Documents/main/cafe-menu/Study%20Room%20Background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   font-family: "Comic Sans M", sans-serif;
   padding: 20px;
 }
