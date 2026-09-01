@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://raw.githubusercontent.com/CpuRey/Documents/blob/main/cafe-menu/cafe-background-img.jpg);
+  background-image: url('cafe-background-img.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
